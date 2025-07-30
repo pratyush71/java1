@@ -23,4 +23,8 @@ public class HelloWorld {
         int square = number * number;
         System.out.println("Square of " + number + " is " + square);
     }
+
+    public void pp(){
+        System.out.println("Hello");
+    }
 }
